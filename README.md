@@ -1,5 +1,7 @@
 # CareBridge AI — Rural Healthcare Assistant & Navigation Agent
 
+![CareBridge AI Screenshot](./carebridge_screenshot.png)
+
 CareBridge AI is an accessible, multi-agent AI assistant built to help rural communities assess symptoms, search local healthcare facilities, evaluate eligibility for government health schemes, and receive critical emergency triage. By focusing on rural barriers (low internet connectivity, language differences, and varying literacy levels), the application incorporates:
 *   **Speech Integration**: Microphone voice input and automated text-to-speech voice readouts.
 *   **Multilingual Interface**: Full localization in English, Hindi (हिंदी), Tamil (தமிழ்), Telugu (తెలుగు), and Spanish (Español).
